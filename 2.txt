@@ -1,2 +1,4 @@
 This is changed 2.
 This was changed to 2.
+This is changed.
+This got changed.
