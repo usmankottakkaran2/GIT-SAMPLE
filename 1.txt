@@ -1,2 +1,4 @@
 This is changed 1.
 This was changed to 1.
+Conflict 1.
+Conflict 2.
